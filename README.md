@@ -1,6 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&lines=Hi+there+👋,+I+am+Yiwen+Ye.;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+Yiwen+Ye.;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
+<p align="center">
+   <img src="happy.gif" width="240px" align="center">
+  <br><br>
+
+</p>
 
 
 #### Thanks for visiting :heart:
